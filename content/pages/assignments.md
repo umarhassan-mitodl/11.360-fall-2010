@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on the course assignments, including
   background, project area, scope of work, tasks, and deliverables.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,7 +14,7 @@ uid: 73a5a04c-5b97-6239-b2b7-b3f7c482b3ec
 Background & Project Area
 -------------------------
 
-Student work in the course will principally address the section of Needham Street that stretches from its intersection with Winchester and Dedham Streets on the north, to the Charles River at the Newton/Needham line on the southerly end. The 2007 Comprehensive Plan ({{% resource_link "88df59fc-4042-4358-b7ab-5129f1f8d0d3" "PDF - 6.6 MB" %}}) acknowledges this section of the roadway as a transitional area. Once an active manufacturing and industrial section of the city, many of the original businesses along the corridor have moved out and been replaced with retail uses and numerous restaurants. The street features multiple curb cuts, a tangle of overhead wires, no bike lanes, incomplete sidewalks, and poorly managed circulation. Because of the poor conditions and lack of amenities, including those for pedestrians, it is primarily accessible by car and is appropriately categorized as a "commercial strip." Traffic is nearing capacity on this street, and it is especially congested at peak times.
+Student work in the course will principally address the section of Needham Street that stretches from its intersection with Winchester and Dedham Streets on the north, to the Charles River at the Newton/Needham line on the southerly end. The 2007 Comprehensive Plan ([PDF - 6.6 MB](https://www.newtonma.gov/home/showpublisheddocument?id=41594)) acknowledges this section of the roadway as a transitional area. Once an active manufacturing and industrial section of the city, many of the original businesses along the corridor have moved out and been replaced with retail uses and numerous restaurants. The street features multiple curb cuts, a tangle of overhead wires, no bike lanes, incomplete sidewalks, and poorly managed circulation. Because of the poor conditions and lack of amenities, including those for pedestrians, it is primarily accessible by car and is appropriately categorized as a "commercial strip." Traffic is nearing capacity on this street, and it is especially congested at peak times.
 
 Scope of Work
 -------------
