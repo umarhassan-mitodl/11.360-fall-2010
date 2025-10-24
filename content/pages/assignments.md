@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on the course assignments, including
   background, project area, scope of work, tasks, and deliverables.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
