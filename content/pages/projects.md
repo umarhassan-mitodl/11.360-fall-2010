@@ -11,17 +11,17 @@ uid: 8bdc0e15-fab4-a6d3-17db-e0b3e8a58729
 Preliminary Findings Presentation
 ---------------------------------
 
-"Envisioning Needham Street." October 28, 2010. ([PDF - 5.6MB](http://web.archive.org/web/20120119044854/http://www.newtonma.gov/Planning/Econ/econ_web/docs/2010/10-28-10-needham-pres.pdf))
+"Envisioning Needham Street." October 28, 2010. ({{% resource_link "521bfbf7-a084-4ee3-acb8-8ac1ce28bea3" "PDF - 5.6MB" %}})
 
 Final Plan Report Presentation
 ------------------------------
 
-"Envisioning Needham Street." December 2, 2010. ([PDF - 3.1MB](http://web.archive.org/web/20120119034053/http://www.newtonma.gov/Planning/Econ/econ_web/docs/2010/12-02-10-needham-pres.pdf))
+"Envisioning Needham Street." December 2, 2010. ({{% resource_link "8dcaec32-65ab-4539-9adc-a38b50b86991" "PDF - 3.1MB" %}})
 
 Final Report
 ------------
 
-"Envisioning Needham Street: Needham Street Corridor Plan, 2010." ([PDF - 5.3MB](http://web.mit.edu/11.360/www/MIT_NS_WebF2010.pdf))
+"Envisioning Needham Street: Needham Street Corridor Plan, 2010." ({{% resource_link "ec36d38f-90d6-40e7-a0ec-a7cbf1baf0f2" "PDF - 5.3MB" %}})
 
 Executive Summary
 -----------------
