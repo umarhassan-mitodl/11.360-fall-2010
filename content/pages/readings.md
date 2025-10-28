@@ -38,7 +38,7 @@ No readings.
 Discussion of client project
 {{< tdclose >}}{{< tdopen >}}
 
-Thomas, June. "[Neighborhood Planning: Uses of Oral History](http://jph.sagepub.com/content/3/1/50.abstract)." *Journal of Planning History* 2, no. 1 (February 2004): 50-70.
+Thomas, June. "{{% resource_link "12755f16-aadd-4643-823b-98a963ad235d" "Neighborhood Planning: Uses of Oral History" %}}." *Journal of Planning History* 2, no. 1 (February 2004): 50-70.
 
 Salvesen, David. "The Making of Place." *Urban Land* 61, no. 7 (July 2002): 36-41. Do these principles apply to our project context?
 
@@ -56,7 +56,7 @@ Klein, Bill. "Citizen Participation: Whose Vision is It?" *Agenda for America's 
 
 Snyder, Ken. "Putting Democracy Front and Center." *Planning* (July 2006): 24-29.
 
-Shipley, Robert, and Ross Newkirk. "[Visioning: Did Anybody See Where it Came From](http://jpl.sagepub.com/content/12/4/407.abstract)?" *Journal of Planning Literature* 12, no. 4 (May 1998): 407-414. Useful cautions and questions.
+Shipley, Robert, and Ross Newkirk. "{{% resource_link "3f65a523-a0ad-4a44-af0d-f649e91c7981" "Visioning: Did Anybody See Where it Came From" %}}?" *Journal of Planning Literature* 12, no. 4 (May 1998): 407-414. Useful cautions and questions.
 
 Papsidero, Vince, and Linda LaCloche. "Thinking and Acting Outside the Box." *Planning* (May 2008): 43-46.
 
@@ -74,13 +74,13 @@ No readings.
 Plan-making at the community level
 {{< tdclose >}}{{< tdopen >}}
 
-Neuman, Michael. "[Does Planning Need the Plan](http://www.informaworld.com/smpp/content~db=all~content=a787383713~frm=abslink)?" *Journal of the American Planning Association* 64, no. 2 (Spring 1998): 208-220.
+Neuman, Michael. "{{% resource_link "0b695de9-2986-482c-8d71-7133cf12332e" "Does Planning Need the Plan" %}}?" *Journal of the American Planning Association* 64, no. 2 (Spring 1998): 208-220.
 
-Baer, William C. "[General Plan Evaluation Criteria: An Approach to Making Better Plans](http://www.informaworld.com/smpp/content~db=all~content=a787366951~jumptype=ref_internal~fromvnxs=v14n4s4~fromtitle=713436528~cons=)." *Journal of the American Planning Association* 63, no. 3 (Summer 1997): 329-344. Would you know a good plan if you saw one?
+Baer, William C. "{{% resource_link "821fe986-56b6-4876-a923-588cc2ba91a3" "General Plan Evaluation Criteria: An Approach to Making Better Plans" %}}." *Journal of the American Planning Association* 63, no. 3 (Summer 1997): 329-344. Would you know a good plan if you saw one?
 
 Talen, Emily, and Cliff Ellis. "Beyond Relativism: Reclaiming the Search for Good City Form." *Journal of Planning Education and Research* 22, no. 1 (2002): 36-49.  Should planners embrace quality and excellence in the form of a city as well as in the built environment and in the content of plans?
 
-Punter, John. "[Developing Urban Design as Public Policy: Best Practice Principles for Design Review and Development Management](http://www.informaworld.com/smpp/content~db=all~content=a778270888)." *Journal of Urban Design* 12, no. 2 (2007): 167-202.
+Punter, John. "{{% resource_link "e1e5ae52-8eca-4a20-97d0-d8427a0c3abc" "Developing Urban Design as Public Policy: Best Practice Principles for Design Review and Development Management" %}}." *Journal of Urban Design* 12, no. 2 (2007): 167-202.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -88,9 +88,9 @@ Punter, John. "[Developing Urban Design as Public Policy: Best Practice Principl
 Imaging Newton's Needham Street corridor
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262620017) Lynch, Kevin. "The Image of the Environment." In [*Image of the City*](https://mitpress.mit.edu/9780262620017). The MIT Press, 1960, pp. 1-13. ISBN: 9780262620017.
+{{% resource_link "28899c4a-101b-4e01-a0a6-eba5eb6aac4b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lynch, Kevin. "The Image of the Environment." In {{% resource_link "28899c4a-101b-4e01-a0a6-eba5eb6aac4b" "*Image of the City*" %}}. The MIT Press, 1960, pp. 1-13. ISBN: 9780262620017.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262600231) Jacobs, Allan B. "Making Great Streets." Chapter 4 in [*Great Streets*](https://mitpress.mit.edu/9780262600231). MIT Press, 1993, pp. 269-308. ISBN: 9780262600231.
+{{% resource_link "48060db0-96db-4ea7-a23d-2382c689b38c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Jacobs, Allan B. "Making Great Streets." Chapter 4 in {{% resource_link "48060db0-96db-4ea7-a23d-2382c689b38c" "*Great Streets*" %}}. MIT Press, 1993, pp. 269-308. ISBN: 9780262600231.
 
 Szold, Terry S. "Terry's Tips for Reading a Plan for Adoption and Success." ({{% resource_link "336f7c7a-e601-5ef2-b560-52c747031ccd" "PDF" %}})
 
@@ -121,11 +121,11 @@ Ritzdorf, Marsha. "Locked Out of Paradise: Contemporary Exclusionary Zoning, the
 Land use planning, regulation, and property rights
 {{< tdclose >}}{{< tdopen >}}
 
-Kaiser, Edward J., and David R. Godschalk. "[Twentieth Century Land Use Planning: A Stalwart Family Tree](http://www.informaworld.com/smpp/content~db=all~content=a787378957~frm=abslink)." *Journal of the American Planning Association* 61, no. 3 (Summer 1995): 365-384. A positive assessment.
+Kaiser, Edward J., and David R. Godschalk. "{{% resource_link "e6f49268-8706-43d4-85d2-4b19bcba77f9" "Twentieth Century Land Use Planning: A Stalwart Family Tree" %}}." *Journal of the American Planning Association* 61, no. 3 (Summer 1995): 365-384. A positive assessment.
 
-Godschalk, David. "[Land Use Planning Challenges: Coping With Conflicts in Visions of Sustainable Development and Livable Communities](http://www.informaworld.com/smpp/content~db=all~content=a787361876~jumptype=ref_internal~fromvnxs=v17n12s5~fromtitle=713417253~cons=)." *Journal of the American Planning Association* 70, no. 1 (Winter 2004): 5-13.
+Godschalk, David. "{{% resource_link "10837d92-e760-4f2e-8bc1-d43495ce876c" "Land Use Planning Challenges: Coping With Conflicts in Visions of Sustainable Development and Livable Communities" %}}." *Journal of the American Planning Association* 70, no. 1 (Winter 2004): 5-13.
 
-Jacobs, Harvey M., and Kurt Paulsen. "[Property Rights: The Neglected Theme of 20th-Century American Planning](http://www.informaworld.com/smpp/content~db=all~content=a907688999~tab=content~order=page)." *Journal of the American Planning Association* 75, no. 2 (Spring 2009): 134-143.
+Jacobs, Harvey M., and Kurt Paulsen. "{{% resource_link "11bf8b91-8ff5-46c4-a646-c049111613b0" "Property Rights: The Neglected Theme of 20th-Century American Planning" %}}." *Journal of the American Planning Association* 75, no. 2 (Spring 2009): 134-143.
 
 Letunie, Niko. "Beyond Plain English." *Planning* (October 2007): 41-44.
 
@@ -141,19 +141,19 @@ Teitz, Michael B. "Reflections and Research on the U.S. Experience." In *The Pro
 Thwarting sprawl; smart growth and the evolution of suburbia
 {{< tdclose >}}{{< tdopen >}}
 
-[Smart Growth Online](http://www.smartgrowth.org/)
+{{% resource_link "3e0e1337-770f-46fd-b796-762d0a87dbcc" "Smart Growth Online" %}}
 
-[Sprawl Watch Clearinghouse](http://www.sprawlwatch.org/)
+{{% resource_link "451248c0-2cba-4e86-89a9-e33a8cb0dd50" "Sprawl Watch Clearinghouse" %}}
 
-[Smart Growth/Smart Energy Toolkit](https://www.mass.gov/files/documents/2017/11/03/Smart%20Growth%20-%20Smart%20Energy%20Toolkit%20Overview.pdf)
+{{% resource_link "2259a3c5-e500-457a-a20a-9589b672ac4f" "Smart Growth/Smart Energy Toolkit" %}}
 
-[Planners Web](http://pcj.typepad.com/)
+{{% resource_link "ba32b388-d551-45b2-97a3-174c680226a8" "Planners Web" %}}
 
-Downs, Anthony. "[Smart Growth: Why We Discuss It More Than We Do It](http://www.informaworld.com/smpp/content~db=all~content=a787359591~frm=titlelink)." *Journal of the American Planning Association* 71, no. 4 (Autumn 2005): 367-378.
+Downs, Anthony. "{{% resource_link "8bc6f304-6fe7-438e-8b87-e2adae54de08" "Smart Growth: Why We Discuss It More Than We Do It" %}}." *Journal of the American Planning Association* 71, no. 4 (Autumn 2005): 367-378.
 
-Neuman, Michael. "[The Compact City Fallacy](http://jpe.sagepub.com/content/25/1/11.abstract)." *Journal of Planning Education and Research* 25, no. 1 (2005): 11-26.
+Neuman, Michael. "{{% resource_link "800a9a10-362e-415a-b802-af38beec32ad" "The Compact City Fallacy" %}}." *Journal of Planning Education and Research* 25, no. 1 (2005): 11-26.
 
-Lewis, Paul G., and Mark Baldassare. "[The Complexity of Public Attitudes Toward Compact Development](http://www.informaworld.com/smpp/content~db=all~content=a920241107)." *Journal of the American Planning Association* 76, no. 2 (Spring 2010): 219-237.
+Lewis, Paul G., and Mark Baldassare. "{{% resource_link "acd01989-acc4-491a-826c-37d4e30140be" "The Complexity of Public Attitudes Toward Compact Development" %}}." *Journal of the American Planning Association* 76, no. 2 (Spring 2010): 219-237.
 
 Krieger, Alex. "Beyond the Rhetoric of Smart Growth." *Architecture* 88, no. 6 (June 1999): 53.
 
@@ -169,7 +169,7 @@ Knapp, Keith K. "Traffic-Calming Basics." *Civil Engineering* (January 2000): 46
 
 Shoup, Donald. "The Twenty-first Century Parking Problem." In  *The High Cost of Free Parking*. APA Planners Press, Washington DC, 2005. ISBN: 9781884829987.
 
-State of North Carolina. [*Traditional Neighborhood Development (TND) Guidelines*](https://rosap.ntl.bts.gov/view/dot/34002). North Carolina Department of Transportation: Division of Highways, August 2000.
+State of North Carolina. {{% resource_link "ff40109b-aec4-44df-b2e1-976f747d63d1" "*Traditional Neighborhood Development (TND) Guidelines*" %}}. North Carolina Department of Transportation: Division of Highways, August 2000.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 7: Zoning innovations, mixed-use development, and incentives to broaden housing affordability**
@@ -199,13 +199,13 @@ White, S. Mark. "Affirmative Measures: Using Land-Use Controls to Provide Afford
 
 Baker, Brian. "Affordable Housing Conundrum." *Urban Land* 65, no. 5 (May 2006): 54-58. Strategies for affordability and new projects.
 
-Mukhija, Vinit, Lara Regus, Sara Slovin, and Ashok Das. "[Can Inclusionary Zoning be an Effective and Efficient Housing Policy? Evidence from Los Angeles and Orange Counties](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9906.2010.00495.x/abstract)." *Journal of Urban Affairs* 32, no. 2 (2010): 229-252. Lead author a DUSP grad!
+Mukhija, Vinit, Lara Regus, Sara Slovin, and Ashok Das. "{{% resource_link "01268e77-9d1f-4251-9a0e-c1f444dfb23a" "Can Inclusionary Zoning be an Effective and Efficient Housing Policy? Evidence from Los Angeles and Orange Counties" %}}." *Journal of Urban Affairs* 32, no. 2 (2010): 229-252. Lead author a DUSP grad!
 
 ### Optional
 
 Porter, Douglas R., Patrick L. Phillips, and Terry J. Lassar. "Introduction to Flexible Zoning." In *Flexible Zoning and How It Works*. The Urban Land Institute, Washington, 1988, pp. 3-14. An overview and model application of performance zoning. ISBN: 9780874206869.
 
-Schuetz, Jenny, Rachel Meltzer, and Vicki Been. "[31 Flavors of Inclusionary Zoning: Comparing Policies from San Francisco, Washington, DC, and Suburban Boston](https://doi.org/10.1080/01944360903146806)." *Journal of the American Planning Association* 75, no. 4 (Autumn 2009): 441-456. Includes Newton as part of survey/case study.
+Schuetz, Jenny, Rachel Meltzer, and Vicki Been. "{{% resource_link "699cc577-87f1-4700-9eb4-95f68270892d" "31 Flavors of Inclusionary Zoning: Comparing Policies from San Francisco, Washington, DC, and Suburban Boston" %}}." *Journal of the American Planning Association* 75, no. 4 (Autumn 2009): 441-456. Includes Newton as part of survey/case study.
 
 Kendig, Lane, with Susan Connor, Cranston Byrd, and Judy Heyman. "The Concept of Performance Zoning." In *Performance Zoning*. Planners Press, American Planning Association, Washington, D.C., 1980, pp. 3-50. ISBN: 9780918286185. If you have any free time, perusal of this book in its entirety is worthwhile.
 
@@ -219,13 +219,13 @@ Kendig, Lane, with Susan Connor, Cranston Byrd, and Judy Heyman. "The Concept of
 Area economic development planning: Tools and prospects
 {{< tdclose >}}{{< tdopen >}}
 
-Culbertson, Kurt. "[Fixing the Strip](http://trid.trb.org/view.aspx?id=921564)." *Planning*. (May/June 2010): 38-41.
+Culbertson, Kurt. "{{% resource_link "c230a45b-7dc4-404a-9d9c-daed8db99428" "Fixing the Strip" %}}." *Planning*. (May/June 2010): 38-41.
 
-Currid, Elizabeth. "[How Art and Culture Happen in New York](http://www.informaworld.com/smpp/content~db=all~content=a785038110)." *Journal of the American Planning Association* 73, no. 4, (Autumn 2007): 454-467.
+Currid, Elizabeth. "{{% resource_link "15b2815a-06c9-44d9-bfba-8a5fc6adeb37" "How Art and Culture Happen in New York" %}}." *Journal of the American Planning Association* 73, no. 4, (Autumn 2007): 454-467.
 
-Hinshaw, Mark, and Brian Vanneman. "The Supermarket as a Neighborhood Building Block." *Planning* (March 2010): 28-31. There was once a contentious fight about bringing a Super Stop and Shop to Needham Street; is it time to reconsider the use, perhaps on a smaller scale? ([PDF](https://www.milwaukieoregon.gov/sites/default/files/fileattachments/community_development/page/33421/neighborhood_bldg_block.pdf))
+Hinshaw, Mark, and Brian Vanneman. "The Supermarket as a Neighborhood Building Block." *Planning* (March 2010): 28-31. There was once a contentious fight about bringing a Super Stop and Shop to Needham Street; is it time to reconsider the use, perhaps on a smaller scale? ({{% resource_link "07becb65-43a9-419d-836c-d3be8d0e0439" "PDF" %}})
 
-Seidman, Karl F. *Revitalizing Commerce for American Cities: A Practitioner's Guide to Urban Main Street Programs*. The Fannie Mae Foundation, September 2004. An excellent primer. ([PDF - 1.8MB](https://www.innovations.harvard.edu/sites/default/files/49663.pdf))
+Seidman, Karl F. *Revitalizing Commerce for American Cities: A Practitioner's Guide to Urban Main Street Programs*. The Fannie Mae Foundation, September 2004. An excellent primer. ({{% resource_link "285e87fc-7958-4bc8-a1fc-1b02108a301a" "PDF - 1.8MB" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -247,15 +247,15 @@ Lopez, Guillermo. "Public Space Design." *Urban Land* 65, no. 3 (March 2006): 60
 
 Nyren, Ron. "Creating Temporary Landscapes on Empty Sites." *Urban Land* 66, no. 4 (April 2007): 140-141. An interesting take on making lively places on unused sites.
 
-Talen, Emily. "[Design by the Rules: The Historical Underpinnings of Form-Based Codes](http://dx.doi.org/10.1080/01944360802686662)." *Journal of the American Planning Association* 75, no. 2 (Spring 2009): 144-160.
+Talen, Emily. "{{% resource_link "876e53f8-e48f-4f00-90cd-3dc8f14abcea" "Design by the Rules: The Historical Underpinnings of Form-Based Codes" %}}." *Journal of the American Planning Association* 75, no. 2 (Spring 2009): 144-160.
 
-Cable, Faith. "Design First, Codify Second: Germany Offers Lessons for U.S. Planners." *Planning* (July 2009): 24-29. ([PDF - 3.5MB](https://www.yumpu.com/en/document/view/4046956/design-first-codify-second-germany-offers-lessons-for))
+Cable, Faith. "Design First, Codify Second: Germany Offers Lessons for U.S. Planners." *Planning* (July 2009): 24-29. ({{% resource_link "165685fd-f138-4a8b-94d2-c53c47011876" "PDF - 3.5MB" %}})
 
-Langdon, Philip. "The Not-So-Secret Code." *Planning* (January 2006): 24-29. ([PDF](http://www.gatewayplanning.com/APA/The%20Not-So-Secret%20Code.pdf))
+Langdon, Philip. "The Not-So-Secret Code." *Planning* (January 2006): 24-29. ({{% resource_link "6ff1d45c-a42d-4dfe-b17e-21432bb0cadf" "PDF" %}})
 
-Nasar, Jack L. "[Does Neotraditional Development Build Community](http://jpe.sagepub.com/content/23/1/58.abstract)?" *Journal of Planning Education and Research* 23, no. 1 (Fall 2003): 58-68.
+Nasar, Jack L. "{{% resource_link "d8055484-fbd8-4ab5-a0e3-5a06dfdb1ee1" "Does Neotraditional Development Build Community" %}}?" *Journal of Planning Education and Research* 23, no. 1 (Fall 2003): 58-68.
 
-Search the web to evaluate design review and design standards from other cities and towns. Search the following site: [http://municipalcodes.lexisnexis.com/](http://www.municode.com/Library/Library.aspx)
+Search the web to evaluate design review and design standards from other cities and towns. Search the following site: {{% resource_link "a7ea576e-c903-42bb-a729-b67ae02c2222" "http://municipalcodes.lexisnexis.com/" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -273,7 +273,7 @@ No readings.
 Landscape planning, history and current approaches
 {{< tdclose >}}{{< tdopen >}}
 
-Rishbeth, Clare. "[Ethnic Minority Groups and the Design of Public Open Space: An Inclusive Landscape](http://www.informaworld.com/smpp/content~db=all~content=a713684717~frm=abslink)?" *Landscape Research* 26, no. 4 (2001): 351-366.
+Rishbeth, Clare. "{{% resource_link "a89cd593-ba19-4996-94a8-80ac361b9a9f" "Ethnic Minority Groups and the Design of Public Open Space: An Inclusive Landscape" %}}?" *Landscape Research* 26, no. 4 (2001): 351-366.
 
 Tarnay, Stella, and Ed McMahon. "Toward Green Urbanism." *Urban Land* 64, no. 6 (June 2005): 54-59.
 
@@ -301,9 +301,9 @@ Dinola, Ralph, and Shum-Miller, Katrina. "Getting Behind the Wheel." *Urban Land
 
 Kreisler, Barbara. "Moving Beyond Green." *Urban Land* 65, no. 6 (June 2006): 76-81. A more holistic approach.
 
-Groc, Isabelle. "[Keep Your Footprint Out of My Backyard](http://www.mtas.tennessee.edu/nbbks.nsf/0/B910ACE63CD387F28525729700627449?OpenDocument)." *Planning* (January 2007): 32- 35. Vancouver's eco-density initiative described.
+Groc, Isabelle. "{{% resource_link "a6345614-4071-4359-b3d0-b56bd7b08e99" "Keep Your Footprint Out of My Backyard" %}}." *Planning* (January 2007): 32- 35. Vancouver's eco-density initiative described.
 
-Duerksen, Chris. "Saving the World Through Zoning." *Planning* (January 2008): 28-30. ([PDF](http://www.law.du.edu/documents/rmlui/saving-the-world-through-zoning.pdf))
+Duerksen, Chris. "Saving the World Through Zoning." *Planning* (January 2008): 28-30. ({{% resource_link "2df2b56b-1251-43af-b33e-6bbb10c69e36" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -311,11 +311,11 @@ Duerksen, Chris. "Saving the World Through Zoning." *Planning* (January 2008): 2
 The mobility challenge for planning; transit-oriented and infill development
 {{< tdclose >}}{{< tdopen >}}
 
-Taylor, Brian D. "[Putting a Price on Mobility: Cars and Contradictions in Planning](http://www.informaworld.com/smpp/content~db=all~content=a787392634~frm=abslink)." *Journal of the American Planning Association* 72, no. 3 (Summer 2006): 279-284.
+Taylor, Brian D. "{{% resource_link "0cb27d31-d41c-4169-905f-7130f7d57a8d" "Putting a Price on Mobility: Cars and Contradictions in Planning" %}}." *Journal of the American Planning Association* 72, no. 3 (Summer 2006): 279-284.
 
-Handy, Susan. "The Road Less Driven." *Journal of the American Planning Association* 72, no. 3 (Summer 2006): 274-278. ([PDF](http://www.des.ucdavis.edu/faculty/handy/TTP_seminar/longer_view.pdf))
+Handy, Susan. "The Road Less Driven." *Journal of the American Planning Association* 72, no. 3 (Summer 2006): 274-278. ({{% resource_link "43ca78b0-c867-4d1a-b861-138150936f8c" "PDF" %}})
 
-Tumlin, Jeffery, and Adam Millard-Ball. "How to Make Transit-Oriented Development Work." *Planning* (May 2003): 14-19. ([PDF](https://millardball.its.ucla.edu/wp-content/uploads/sites/22/2022/06/Tumlin_Millard-Ball_2003_How_to_Make_TOD_Work.pdf))
+Tumlin, Jeffery, and Adam Millard-Ball. "How to Make Transit-Oriented Development Work." *Planning* (May 2003): 14-19. ({{% resource_link "235c26d2-7591-4753-9243-f639e3b708b1" "PDF" %}})
 
 Strauss, Mark E., and Lawrence M. Rosenbloom. "Making TOD Real." *Urban Land* 63, no. 5 (May, 2004): 14; 17.
 
